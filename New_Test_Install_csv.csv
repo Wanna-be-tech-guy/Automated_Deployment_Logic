@@ -1,0 +1,2 @@
+﻿hostname,iirb,iip,vlan1,vlan2,vlan3,vlan4,vlan5,,,,,,,,,,,,,,,,,,,,,
+Test_Switch,255,192.168.0.5,Test_Vlan1:10,Test_Vlan2:20,Test_Vlan3:30,Test_Vlan4:40,Test_Vlan5:50,,,,,,,,,,,,,,,,,,,,,
