@@ -1,4 +1,4 @@
-Root directory for the script (where the script should be ran from:
+Root directory for the script (where the script should be ran from):
 
 C:\Users\<username>\Documents\Automated_Deployment_Logic
 
